@@ -1,5 +1,5 @@
 # COVID-19 Tracker
-![COVID-19 Tracker](https://drive.google.com/file/d/1pERUdyGhVdmT7hQrR0q6lxqKn-VOIv8j/view?usp=sharing)
+![COVID-19 Tracker](https://user-images.githubusercontent.com/30802411/82158356-f7f04a80-98a4-11ea-913d-76b960811159.png)
 
 ### [Live Site](https://coronatracker-19.netlify.app/)
 
